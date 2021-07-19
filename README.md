@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ribeirocarlos87
+- 👀 I’m interested in coding mobile applications and web.
+- 🌱 I’m currently learning Kotlin w/ Android Studio.
+- 💞️ I’m looking to collaborate on Web apps w/ JavaScript.
