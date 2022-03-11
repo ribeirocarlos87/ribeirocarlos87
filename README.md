@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Carlos!
-- 👀 I’m interested in coding mobile applications.
-- 🌱 I’m currently learning Kotlin w/ Android Studio.
-- 💞️ I also like to get my hands dirty w/ JavaScript.
+- 👀 I’m interested in solving problems through applications.
+- 🌱 I’m currently learning Java.
+- 💞️ I also like to get my hands dirty w/ Kotlin and JavaScript.
